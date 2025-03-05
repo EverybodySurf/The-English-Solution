@@ -255,7 +255,7 @@ span {
 }
 
 .pg2-hl {
-  border: 3px solid #01c7fc;
+  border-bottom: 3px solid #01c7fc;
   color: white;
  	font-size: 3rem;
   font-family: "Inter", sans-serif;
